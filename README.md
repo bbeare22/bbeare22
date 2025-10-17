@@ -22,6 +22,7 @@ I completed the **TripleTen Software Engineering Program** and certified through
 
 #### 🧼 [Sterile Processing Tracker](https://github.com/bbeare22/sterile-processing-tracker)
 🔗 https://spt-front.onrender.com
+
 A custom-built full-stack app designed to modernize sterile processing workflow tracking.  
 Built with React and Express, it streamlines sterilization records, shift logs, and QA data — merging healthcare experience with modern web development.  
 **Tech:** React, Node.js, Express, MongoDB, JavaScript  
