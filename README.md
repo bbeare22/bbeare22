@@ -27,7 +27,7 @@ Built with React and Express, it streamlines sterilization records, shift logs, 
 
 ---
 
-#### 🌦️ [WTWR (What To Wear App)](https://github.com/bbeare22/se_project_react)(https://github.com/bbeare22/se_project_express)
+#### 🌦️ [WTWR (What To Wear App)](https://github.com/bbeare22/se_project_react)
 A weather-based wardrobe manager that recommends outfits based on real-time data and user preferences.  
 Includes authentication, item management, and weather integration through the OpenWeather API.  
 **Tech:** React, Node.js, Express, MongoDB, OpenWeather API  
@@ -39,6 +39,12 @@ An interactive front-end project allowing users to share and like photos from ar
 Built using vanilla JavaScript and BEM for clean, maintainable code.  
 **Tech:** JavaScript, HTML, CSS, Git  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
+![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
+
 ---
 
 ### 🌐 Connect with Me
@@ -47,5 +53,9 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 🏙️ Colorado Springs, CO  
 
 ---
+
+### 📊 GitHub Stats
+![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeare22&show_icons=true&theme=tokyonight)
+
 
 > *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
