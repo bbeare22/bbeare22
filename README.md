@@ -59,10 +59,10 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/brett-beare-ba87a818a/)  
+[LinkedIn](https://www.linkedin.com/in/brett-beare)  
 📧 **beare.logan@yahoo.com**  
 🏙️ Colorado Springs, CO  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brett-beare-ba87a818a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brett-beare)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beare.logan@yahoo.com)
 
 ---
