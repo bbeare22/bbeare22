@@ -70,6 +70,11 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 ### 📊 GitHub Stats
 ![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeare22&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbeare22&theme=tokyonight)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=bbeare22&color=blueviolet)
+
+---
 
 > *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
