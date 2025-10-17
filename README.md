@@ -51,6 +51,13 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 
 ---
 
+### 🧠 Currently Working On
+- Building a new feature for my **Sterile Processing Tracker** app  
+- Expanding my backend knowledge with **Express middleware & authentication**  
+- Preparing for transition into an entry-level **Software Engineer** or **IT Support** role
+
+---
+
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/brett-beare-ba87a818a/)  
 📧 **beare.logan@yahoo.com**  
@@ -60,6 +67,7 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 
 ### 📊 GitHub Stats
 ![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeare22&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bbeare22&theme=tokyonight)
 
 
 > *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
