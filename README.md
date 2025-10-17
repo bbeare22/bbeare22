@@ -62,12 +62,14 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 [LinkedIn](https://www.linkedin.com/in/brett-beare-ba87a818a/)  
 📧 **beare.logan@yahoo.com**  
 🏙️ Colorado Springs, CO  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brett-beare-ba87a818a/)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beare.logan@yahoo.com)
 
 ---
 
 ### 📊 GitHub Stats
 ![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeare22&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbeare22&theme=tokyonight)
-
+![Profile Views](https://komarev.com/ghpvc/?username=bbeare22&color=blueviolet)
 
 > *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
