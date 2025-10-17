@@ -24,6 +24,11 @@ I completed the **TripleTen Software Engineering Program** and certified through
 A custom-built full-stack app designed to modernize sterile processing workflow tracking.  
 Built with React and Express, it streamlines sterilization records, shift logs, and QA data — merging healthcare experience with modern web development.  
 **Tech:** React, Node.js, Express, MongoDB, JavaScript  
+![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 
 ---
 
@@ -31,6 +36,10 @@ Built with React and Express, it streamlines sterilization records, shift logs, 
 A weather-based wardrobe manager that recommends outfits based on real-time data and user preferences.  
 Includes authentication, item management, and weather integration through the OpenWeather API.  
 **Tech:** React, Node.js, Express, MongoDB, OpenWeather API  
+![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
 
 ---
 
@@ -38,12 +47,7 @@ Includes authentication, item management, and weather integration through the Op
 An interactive front-end project allowing users to share and like photos from around the U.S.  
 Built using vanilla JavaScript and BEM for clean, maintainable code.  
 **Tech:** JavaScript, HTML, CSS, Git  
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
 
 ---
 
