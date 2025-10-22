@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Brett Beare  
 
 I'm a healthcare professional transitioning into technology after seven years of precision-driven work in sterile processing.  
-I completed the **TripleTen Software Engineering Program** and certified through **Google IT Support**, I’m building skills that merge reliability, process improvement, and full-stack development.  
+I completed the **TripleTen Software Engineering Program** and earned a **Google IT Support Certification**, building skills that merge reliability, process improvement, and full-stack development.  
 
 ---
 
 ### 💻 Tech Stack
-**Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express, MongoDB  
-**Tools:** Git, GitHub, REST APIs, Postman, Vite, VS Code  
+**Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express, MongoDB, Next.js, TailwindCSS  
+**Tools:** Git, GitHub, REST APIs, Postman, Vite, VS Code, Prisma  
 **Focus Areas:** Process automation, data-driven workflows, and scalable web apps  
 
 ---
@@ -20,8 +20,21 @@ I completed the **TripleTen Software Engineering Program** and certified through
 
 ### 🚀 Featured Projects
 
-#### 🧼 [Sterile Processing Tracker](https://github.com/bbeare22/sterile-processing-tracker)
-🔗 https://spt-front.onrender.com
+#### 🐾 [Millie’s Pet Service](https://github.com/bbeare22/millies-pet-service)  
+🔗 [Live Demo](https://millies-pet-service.vercel.app)  
+
+A modern, mobile-friendly booking site built for a local pet grooming business.  
+It allows customers to schedule services, view pricing, and connect with the business—all through a clean, responsive UI.  
+**Tech:** Next.js, TailwindCSS, Prisma, Vercel  
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
+
+---
+
+#### 🧼 [Sterile Processing Tracker](https://github.com/bbeare22/sterile-processing-tracker)  
+🔗 [Live Demo](https://spt-front.onrender.com)
 
 A custom-built full-stack app designed to modernize sterile processing workflow tracking.  
 Built with React and Express, it streamlines sterilization records, shift logs, and QA data — merging healthcare experience with modern web development.  
@@ -34,7 +47,7 @@ Built with React and Express, it streamlines sterilization records, shift logs, 
 
 ---
 
-#### 🌦️ [WTWR (What To Wear App)](https://github.com/bbeare22/se_project_react)
+#### 🌦️ [WTWR (What To Wear App)](https://github.com/bbeare22/se_project_react)  
 A weather-based wardrobe manager that recommends outfits based on real-time data and user preferences.  
 Includes authentication, item management, and weather integration through the OpenWeather API.  
 **Tech:** React, Node.js, Express, MongoDB, OpenWeather API  
@@ -45,7 +58,7 @@ Includes authentication, item management, and weather integration through the Op
 
 ---
 
-#### 🗺️ [Around the U.S.](https://github.com/bbeare22/se_project_aroundtheus)
+#### 🗺️ [Around the U.S.](https://github.com/bbeare22/se_project_aroundtheus)  
 An interactive front-end project allowing users to share and like photos from around the U.S.  
 Built using vanilla JavaScript and BEM for clean, maintainable code.  
 **Tech:** JavaScript, HTML, CSS, Git  
@@ -54,9 +67,9 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 ---
 
 ### 🧠 Currently Working On
-- Building a new feature for my **Sterile Processing Tracker** app  
-- Expanding my backend knowledge with **Express middleware & authentication**  
-- Preparing for transition into an entry-level **Software Engineer** or **IT Support** role
+- Expanding backend skills with **Next.js API routes** and **Prisma ORM**  
+- Enhancing UI/UX with Tailwind animations and accessibility improvements  
+- Preparing for transition into an entry-level **Software Engineer** or **Frontend Developer** role  
 
 ---
 
@@ -80,3 +93,4 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 ---
 
 > *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
+
