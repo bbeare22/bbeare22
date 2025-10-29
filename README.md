@@ -7,7 +7,7 @@ I completed the **TripleTen Software Engineering Program** and earned a **Google
 
 ### 💻 Tech Stack
 **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express, MongoDB, Next.js, TailwindCSS  
-**Tools:** Git, GitHub, REST APIs, Postman, Vite, VS Code, Prisma  
+**Tools:** Git, GitHub, REST APIs, Postman, Vite, VS Code, Prisma, Figma  
 **Focus Areas:** Process automation, data-driven workflows, and scalable web apps  
 
 ---
