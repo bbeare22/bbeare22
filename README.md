@@ -1,27 +1,28 @@
-# 👋 Hi, I'm Brett Beare  
+# 👋 Hi, I'm Brett Beare
 
-I'm a healthcare professional transitioning into technology after seven years of precision-driven work in sterile processing.  
-I completed the **TripleTen Software Engineering Program** and earned a **Google IT Support Certification**, building skills that merge reliability, process improvement, and full-stack development.  
+I’m a **Front-End Developer Intern at BeeDev Services LLC**, bringing precision, process-thinking, and creativity from seven years in healthcare into the world of software engineering.
+
+After completing the **TripleTen Software Engineering Program** and earning my **Google IT Support Professional Certificate**, I’ve built several full-stack applications focused on real-world usability, automation, and scalable front-end design.
 
 ---
 
 ### 💻 Tech Stack
 **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express, MongoDB, Next.js, TailwindCSS  
-**Tools:** Git, GitHub, REST APIs, Postman, Vite, VS Code, Prisma, Figma  
-**Focus Areas:** Process automation, data-driven workflows, and scalable web apps  
+**Tools & Platforms:** Git, GitHub, REST APIs, Postman, Vite, Prisma, Figma, Render, Vercel  
+**Focus Areas:** Front-end architecture, responsive UI/UX, API integration, and scalable web applications
 
 ---
 
 ### 🎓 Certifications
 - Google IT Support Professional Certificate  
-- TripleTen Software Engineering Program  
+- TripleTen Software Engineering Program (Full-Stack Web Development)
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🐾 [Millie’s Pet Service](https://github.com/bbeare22/millies-pet-service)  
-🔗 [Live Demo](https://millies-pet-service.vercel.app)  
+🔗 [Live Demo](https://millies-pet-service.vercel.app)
 
 A modern, mobile-friendly booking site built for a local pet grooming business.  
 It allows customers to schedule services, view pricing, and connect with the business—all through a clean, responsive UI.  
@@ -33,11 +34,11 @@ It allows customers to schedule services, view pricing, and connect with the bus
 
 ---
 
-#### 🧼 [Sterile Processing Tracker](https://github.com/bbeare22/sterile-processing-tracker)  
+#### 🧼 [Sterile Processing Tracker (SPT)](https://github.com/bbeare22/sterile-processing-tracker)  
 🔗 [Live Demo](https://spt-front.onrender.com)
 
-A custom-built full-stack app designed to modernize sterile processing workflow tracking.  
-Built with React and Express, it streamlines sterilization records, shift logs, and QA data — merging healthcare experience with modern web development.  
+My flagship full-stack app that helps healthcare facilities track sterilizer cycles, maintenance logs, and equipment records.  
+Built with React and Express, it streamlines sterilization records and QA tracking — merging healthcare precision with modern web development.  
 **Tech:** React, Node.js, Express, MongoDB, JavaScript  
 ![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -47,8 +48,8 @@ Built with React and Express, it streamlines sterilization records, shift logs, 
 
 ---
 
-#### 🌦️ [WTWR (What To Wear App)](https://github.com/bbeare22/se_project_react)  
-A weather-based wardrobe manager that recommends outfits based on real-time data and user preferences.  
+#### 🌤️ [WTWR (What To Wear App)](https://github.com/bbeare22/se_project_react)  
+A weather-based wardrobe manager that recommends outfits based on real-time weather data and user preferences.  
 Includes authentication, item management, and weather integration through the OpenWeather API.  
 **Tech:** React, Node.js, Express, MongoDB, OpenWeather API  
 ![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
@@ -59,7 +60,7 @@ Includes authentication, item management, and weather integration through the Op
 ---
 
 #### 🗺️ [Around the U.S.](https://github.com/bbeare22/se_project_aroundtheus)  
-An interactive front-end project allowing users to share and like photos from around the U.S.  
+An interactive front-end app allowing users to share and like photos from around the U.S.  
 Built using vanilla JavaScript and BEM for clean, maintainable code.  
 **Tech:** JavaScript, HTML, CSS, Git  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
@@ -67,9 +68,9 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 ---
 
 ### 🧠 Currently Working On
-- Expanding backend skills with **Next.js API routes** and **Prisma ORM**  
-- Enhancing UI/UX with Tailwind animations and accessibility improvements  
-- Preparing for transition into an entry-level **Software Engineer** or **Frontend Developer** role  
+- Building portfolio-ready client projects with **BeeDev Services LLC**  
+- Strengthening back-end API handling and front-end scalability  
+- Exploring **Python** and **React Native** for future integrations
 
 ---
 
@@ -93,4 +94,5 @@ Built using vanilla JavaScript and BEM for clean, maintainable code.
 ---
 
 > *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
+
 
