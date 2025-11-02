@@ -62,14 +62,6 @@ Built with React and Express, it streamlines sterilization records and QA tracki
 
 ---
 
-#### 🗺️ [Around the U.S.](https://github.com/bbeare22/se_project_aroundtheus)  
-An interactive front-end app allowing users to share and like photos from around the U.S.  
-Built using vanilla JavaScript and BEM for clean, maintainable code.  
-**Tech:** JavaScript, HTML, CSS, Git  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-
----
-
 ### 🧠 Currently Working On
 - Building portfolio-ready client projects with **BeeDev Services LLC**  
 - Strengthening back-end API handling and front-end scalability  
