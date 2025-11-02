@@ -34,6 +34,20 @@ It allows customers to schedule services, view pricing, and connect with the bus
 
 ---
 
+#### 🎨 [ContrastCraft — Accessible Palette Generator](https://github.com/bbeare22/contrastcraft)  
+🔗 [Live Demo](https://contrastcraft.vercel.app)
+
+A sleek, accessible web app that generates 12-step color palettes with live WCAG contrast checks, dark mode, and exportable CSS/JSON tokens.  
+Built to showcase polished UI/UX, responsive design, and microinteraction detail.  
+**Tech:** React, Vite, TailwindCSS, Framer Motion  
+![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0050?logo=framer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
+
+---
+
 #### 🧼 [Sterile Processing Tracker (SPT)](https://github.com/bbeare22/sterile-processing-tracker)  
 🔗 [Live Demo](https://spt-front.onrender.com)
 
@@ -45,17 +59,6 @@ Built with React and Express, it streamlines sterilization records and QA tracki
 ![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-
----
-
-#### 🌤️ [WTWR (What To Wear App)](https://github.com/bbeare22/se_project_react)  
-A weather-based wardrobe manager that recommends outfits based on real-time weather data and user preferences.  
-Includes authentication, item management, and weather integration through the OpenWeather API.  
-**Tech:** React, Node.js, Express, MongoDB, OpenWeather API  
-![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
 
 ---
 
