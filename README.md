@@ -45,6 +45,7 @@ Built to showcase polished UI/UX, responsive design, and microinteraction detail
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0050?logo=framer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 
 ---
 
