@@ -6,6 +6,19 @@ After completing the **TripleTen Software Engineering Program** and earning my *
 
 ---
 
+### 💼 Professional Portfolio  
+🔗 [**brett-portfolio-site.vercel.app**](https://brett-portfolio-site.vercel.app)
+
+My personal developer portfolio showcasing featured projects, skills, and contact information — designed with a focus on elegant UI, smooth UX, and responsive front-end architecture.  
+**Tech:** React, Vite, TailwindCSS, Formspree, Vercel  
+![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
+
+---
+
 ### 💻 Tech Stack
 **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express, MongoDB, Next.js, TailwindCSS  
 **Tools & Platforms:** Git, GitHub, REST APIs, Postman, Vite, Prisma, Figma, Render, Vercel  
@@ -90,5 +103,6 @@ Built with React and Express, it streamlines sterilization records and QA tracki
 ---
 
 > *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
+
 
 
