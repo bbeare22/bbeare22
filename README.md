@@ -8,7 +8,7 @@ After completing the **TripleTen Software Engineering Program** and earning my *
 
 ### 💼 Professional Portfolio  
 
-#### Brett Beare Professional Portfolio
+#### [Brett Beare Professional Portfolio](https://github.com/bbeare22/brett_portfolio_site)
 🔗 [Live Demo](https://brett-portfolio-site.vercel.app)
 
 My personal developer portfolio showcasing featured projects, skills, and contact information — designed with a focus on elegant UI, smooth UX, and responsive front-end architecture.  
