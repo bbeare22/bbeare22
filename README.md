@@ -37,7 +37,7 @@ My personal developer portfolio showcasing featured projects, skills, and contac
 ### 🚀 Featured Projects
 
 #### 🐾 [Millie’s Pet Service](https://github.com/bbeare22/millies-pet-service)  
-🔗 [Live Demo](https://millies-pet-service.vercel.app)
+🔗 [Live Demo](https://mpetserv.com)
 
 A modern, mobile-friendly booking site built for a local pet grooming business.  
 It allows customers to schedule services, view pricing, and connect with the business—all through a clean, responsive UI.  
