@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Brett Beare
 
-I’m a **Front-End Developer Intern at BeeDev Services LLC**, bringing precision, process-thinking, and creativity from seven years in healthcare into the world of software engineering.
+I’m a **Full-Stack Software Engineer** focused on building clean, scalable, and intuitive web applications using modern JavaScript technologies.
 
-After completing the **TripleTen Software Engineering Program** and earning my **Google IT Support Professional Certificate**, I’ve built several full-stack applications focused on real-world usability, automation, and scalable front-end design.
+I transitioned into software engineering after seven years in healthcare, bringing precision, discipline, and detail‑oriented problem‑solving into every product I build. After completing the **TripleTen Software Engineering Program** and earning the **Google IT Support Professional Certificate**, I’ve created full‑stack applications that emphasize production-ready architecture, strong UI/UX principles, and real-world usability.
 
 ---
 
@@ -11,20 +11,18 @@ After completing the **TripleTen Software Engineering Program** and earning my *
 #### [Brett Beare Professional Portfolio](https://github.com/bbeare22/brett_portfolio_site)
 🔗 [Live Demo](https://brett-portfolio-site.vercel.app)
 
-My personal developer portfolio showcasing featured projects, skills, and contact information — designed with a focus on elegant UI, smooth UX, and responsive front-end architecture.  
+A modern developer portfolio showcasing featured projects, system design skills, and UI/UX craftsmanship.  
 **Tech:** React, Vite, TailwindCSS, Formspree, Vercel  
-![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 
 ---
 
 ### 💻 Tech Stack
-**Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express, MongoDB, Next.js, TailwindCSS  
-**Tools & Platforms:** Git, GitHub, REST APIs, Postman, Vite, Prisma, Figma, Render, Vercel  
-**Focus Areas:** Front-end architecture, responsive UI/UX, API integration, and scalable web applications
+**Languages & Core:** JavaScript (ES6+), HTML5, CSS3  
+**Front-End:** React, Next.js, TailwindCSS, Vite  
+**Back-End:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, Prisma, PostgreSQL (Neon)  
+**Tools & Platforms:** Git, GitHub, Postman, Figma, Vercel, Render, cPanel  
+**Focus Areas:** Front-end architecture, component systems, API integration, scalable full-stack applications  
 
 ---
 
@@ -36,52 +34,37 @@ My personal developer portfolio showcasing featured projects, skills, and contac
 
 ### 🚀 Featured Projects
 
-#### 🐾 [Millie’s Pet Service](https://github.com/bbeare22/millies-pet-service)  
-🔗 [Live Demo](https://mpetserv.com)
+#### 🐾 Millie’s Pet Service  
+🔗 [Live Demo](https://mpetserv.com)  
+🔗 [GitHub](https://github.com/bbeare22/millies-pet-service)
 
-A modern, mobile-friendly booking site built for a local pet grooming business.  
-It allows customers to schedule services, view pricing, and connect with the business—all through a clean, responsive UI.  
+A production-ready booking and client portal built for a real pet services business. Provides scheduling, pricing, and communication through a clean UI.  
 **Tech:** Next.js, TailwindCSS, Prisma, Vercel  
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
 
 ---
 
-#### 🎨 [ContrastCraft — Accessible Palette Generator](https://github.com/bbeare22/contrastcraft)  
-🔗 [Live Demo](https://contrastcraft.vercel.app)
+#### 🎨 ContrastCraft — Accessible Palette Generator  
+🔗 [Live Demo](https://contrastcraft.vercel.app)  
+🔗 [GitHub](https://github.com/bbeare22/contrastcraft)
 
-A sleek, accessible web app that generates 12-step color palettes with live WCAG contrast checks, dark mode, and exportable CSS/JSON tokens.  
-Built to showcase polished UI/UX, responsive design, and microinteraction detail.  
+A modern color system generator featuring WCAG contrast validation, dark mode, and exportable design tokens. Focused on UI/UX polish and accessibility.  
 **Tech:** React, Vite, TailwindCSS, Framer Motion  
-![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0050?logo=framer&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 
 ---
 
-#### 🧼 [Sterile Processing Tracker (SPT)](https://github.com/bbeare22/sterile-processing-tracker)  
-🔗 [Live Demo](https://spt-front.onrender.com)
+#### 🧼 Sterile Processing Tracker (SPT)  
+🔗 [Live Demo](https://spt-front.onrender.com)  
+🔗 [GitHub](https://github.com/bbeare22/sterile-processing-tracker)
 
-My flagship full-stack app that helps healthcare facilities track sterilizer cycles, maintenance logs, and equipment records.  
-Built with React and Express, it streamlines sterilization records and QA tracking — merging healthcare precision with modern web development.  
-**Tech:** React, Node.js, Express, MongoDB, JavaScript  
-![React](https://img.shields.io/badge/React-%2300D9FF?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
+A full-stack application for healthcare sterilization record tracking, maintenance logs, and QA validation. Built with scalable API routes and clean UI patterns.  
+**Tech:** React, Node.js, Express, MongoDB  
 
 ---
 
 ### 🧠 Currently Working On
-- Building portfolio-ready client projects with **BeeDev Services LLC**  
-- Strengthening back-end API handling and front-end scalability  
-- Exploring **Python** and **React Native** for future integrations
+- Client-facing projects at **BeeDev Services LLC**  
+- Strengthening API integrations & scalable component patterns  
+- Exploring **Python** and **React Native**  
 
 ---
 
@@ -89,13 +72,11 @@ Built with React and Express, it streamlines sterilization records and QA tracki
 [LinkedIn](https://www.linkedin.com/in/brett-beare)  
 📧 **beare.logan@yahoo.com**  
 🏙️ Colorado Springs, CO  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brett-beare)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beare.logan@yahoo.com)
 
 ---
 
 ### 📊 GitHub Stats
-![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeare22&show_icons=true&theme=tokyonight)
+![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeare22&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbeare22&theme=tokyonight)
 
 ---
@@ -104,7 +85,8 @@ Built with React and Express, it streamlines sterilization records and QA tracki
 
 ---
 
-> *“Precision, problem-solving, and continuous learning — from healthcare to code.”*
+> *“Clean architecture, thoughtful UI, and scalable systems — built with precision.”*
+
 
 
 
