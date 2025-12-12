@@ -39,7 +39,7 @@ A modern developer portfolio showcasing featured projects, system design skills,
 🔗 [GitHub](https://github.com/bbeare22/millies-pet-service)
 
 A production-ready booking and client portal built for a real pet services business. Provides scheduling, pricing, and communication through a clean UI.  
-**Tech:** Next.js, TailwindCSS, Prisma, Vercel  
+**Tech:** Next.js, TailwindCSS, Prisma, Vercel.  
 
 ---
 
@@ -48,7 +48,7 @@ A production-ready booking and client portal built for a real pet services busin
 🔗 [GitHub](https://github.com/bbeare22/contrastcraft)
 
 A modern color system generator featuring WCAG contrast validation, dark mode, and exportable design tokens. Focused on UI/UX polish and accessibility.  
-**Tech:** React, Vite, TailwindCSS, Framer Motion  
+**Tech:** React, Vite, TailwindCSS, Framer Motion.  
 
 ---
 
@@ -57,7 +57,7 @@ A modern color system generator featuring WCAG contrast validation, dark mode, a
 🔗 [GitHub](https://github.com/bbeare22/sterile-processing-tracker)
 
 A full-stack application for healthcare sterilization record tracking, maintenance logs, and QA validation. Built with scalable API routes and clean UI patterns.  
-**Tech:** React, Node.js, Express, MongoDB  
+**Tech:** React, Node.js, Express, MongoDB.  
 
 ---
 
